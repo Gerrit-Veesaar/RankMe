@@ -6,6 +6,7 @@ Enhanced Feedback: Users can also leave private or public(maybe as an future fea
 Fun, Interactive, and Respectful: RankMe aims to make dating engaging while maintaining a respectful, non-toxic community environment.
 
 3. Goals
+
 The goal of RankMe is to:
 
 Reinvent Online Dating: Move beyond superficial swiping by introducing a rating system based on multiple aspects of compatibility and attraction.
