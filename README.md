@@ -5,6 +5,13 @@ User Ratings: Every profile is rated by others, with 1-5 stars reflecting factor
 Enhanced Feedback: Users can also leave private or public(maybe as an future feature) comments for additional context, promoting personal growth and better connections.
 Fun, Interactive, and Respectful: RankMe aims to make dating engaging while maintaining a respectful, non-toxic community environment.
 
+2. Vision
+The RankMe app reimagines dating by integrating a simple yet powerful 5-star rating system:
+
+User Ratings: Every profile is rated by others, with 1-5 stars reflecting factors like attractiveness, hobbies, and overall compatibility.
+Enhanced Feedback: Users can also leave private or public(maybe as an future feature) comments for additional context, promoting personal growth and better connections.
+Fun, Interactive, and Respectful: RankMe aims to make dating engaging while maintaining a respectful, non-toxic community environment.
+
 3. Goals
 
 The goal of RankMe is to:
