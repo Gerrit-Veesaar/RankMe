@@ -1,4 +1,4 @@
-# RankMe 2. Vision
+# RankMe 1 Vision
 The RankMe app reimagines dating by integrating a simple yet powerful 5-star rating system:
 
 User Ratings: Every profile is rated by others, with 1-5 stars reflecting factors like attractiveness, hobbies, and overall compatibility.
