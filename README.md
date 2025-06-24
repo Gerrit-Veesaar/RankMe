@@ -32,8 +32,6 @@ Launch: Full release on iOS and Android.
 Call for Collaboration
 This project is in the early stages, and I’m looking for passionate contributors. If you’re a developer, designer, or marketer interested in the dating app space, reach out to help bring RankMe to life!
 
-License
-RankMe - All Rights Reserved (2025)
+## License
 
-All rights to the project, including design, code, and content, are owned by Gerrit Veesaar. Unauthorized copying, distribution, or modification is prohibited without written permission.
-
+© 2025 Gerrit Veesaar – All rights reserved. Written permission required for any use or distribution.
