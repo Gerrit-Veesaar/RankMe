@@ -1,0 +1,4 @@
+Action	               Command	                     Location (folder)
+Start frontend	       npm start	             client folder
+Start backend	       npm start	             server folder
+Stop any server	Press Ctrl + C in terminal	Terminal where server runs
