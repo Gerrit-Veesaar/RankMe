@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+/* Add this to your existing CSS (e.g., App.css) */
+
+.animated-button {
+  background-color: #ffffff33;
+  color: #FFF;
+  padding: 8px 16px;
+  border: 2px solid #FFF;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 14px;
+  backdrop-filter: blur(4px);
+  user-select: none;
+  transition: all 0.3s ease;
+  margin-right: 10px; /* spacing between buttons */
+}
+
+.animated-button:hover {
+  background-color: #ffffff;
+  color: #000000;
+  transform: scale(1.05);
+  border-color: #ffffff;
+  box-shadow: 0 0 8px #ffffff;
+}
